@@ -59,3 +59,16 @@ dependencies {
 repositories {
     mavenCentral()
 }
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+                groupId = "com.pearldrift"
+                artifactId = "imagecropper"
+                version = "1.0.0"
+            }
+        }
+    }
+}
