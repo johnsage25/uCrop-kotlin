@@ -5,7 +5,7 @@
 #### [How We Created uCrop](https://yalantis.com/blog/how-we-created-ucrop-our-own-image-cropping-library-for-android/)
 #### Check this [project on Dribbble](https://dribbble.com/shots/2484752-uCrop-Image-Cropping-Library)
 
-<img src="preview.gif" width="800" height="600">
+<img src="preview.gif" >
 
 # Usage
 
